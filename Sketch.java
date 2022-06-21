@@ -2,8 +2,9 @@ import processing.core.PApplet;
 
 public class Sketch extends PApplet {
 
-  /**
-   *  Global Variables
+  /** 
+   * This program draws a garden scene using user input
+   * Author: Aurora Chen
    */
 
     public boolean mClicked = false; 
